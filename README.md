@@ -3,4 +3,5 @@ Myself Navya Mahajan currently persuing B.tech in Computer Science from U.I.E.T 
 
 My Skills: I am a Web Developer. I had learned Html,CSS,Bootstrap,SQL&Php. Currently I am learning Javascript.
 
- 
+ Hobbies: Learning Creative things, Sketching, Listen to Music.
+
